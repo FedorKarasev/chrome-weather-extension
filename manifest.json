@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Weather",
+  "description": "Shows actual weather in your city",
+  "version": "1.0.1",
+  "action": {
+    "default_icon": "./images/icon.png",
+    "default_popup": "index.html"
+  },
+  "permissions": ["geolocation"]
+}
